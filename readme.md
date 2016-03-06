@@ -14,7 +14,7 @@
   * prints out the url and code to the console so the user can visit the site and enter the
   * then, it queries facebook for a response, when it recieves one (or times out), it returns the access code
   * on error, error is not null
-* More documentation is on the golang website
+* More documentation is on the [golang website](https://godoc.org/github.com/allonsy/fboauth)
 
 
 ## Contributions
